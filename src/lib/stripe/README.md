@@ -1,1 +1,0 @@
-This directory is a compilation of files from https://github.com/invertase/stripe-firebase-extensions. The existing module is broken, so importing files manually was the only way to implement it properly.
